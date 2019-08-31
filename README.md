@@ -9,10 +9,10 @@
 2. [element-ui的使用](https://element.eleme.cn/#/)
 
 ### 界面如下，使用css @media针对手机端做了很简单的自适应
-[PC端首页界面](https://github.com/HYUANT/atfu-web/tree/master/doc/index.png)
-[手机端首页界面](https://github.com/HYUANT/atfu-web/tree/master/doc/phone_index.png)
-[PC端产品搜索界面](https://github.com/HYUANT/atfu-web/tree/master/doc/products_search.png)
-[手机端产品搜索界面](https://github.com/HYUANT/atfu-web/tree/master/doc/phone_products_search.png)
+![PC端首页界面](https://github.com/HYUANT/atfu-web/tree/master/doc/index.png)
+![手机端首页界面](https://github.com/HYUANT/atfu-web/tree/master/doc/phone_index.png)
+![PC端产品搜索界面](https://github.com/HYUANT/atfu-web/tree/master/doc/products_search.png)
+![手机端产品搜索界面](https://github.com/HYUANT/atfu-web/tree/master/doc/phone_products_search.png)
 
 ## 安装依赖包，可能要等待比较久
 ```
